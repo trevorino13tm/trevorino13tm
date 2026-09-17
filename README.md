@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trevor Tanaka Mutendera</h1>
 <h3 align="center">A passionate Software developer from South Africa</h3>
 
-- 🔭 I’m currently working on **Building full-stack web applications with React and Node.js, and improving my portfolio with interactive GSAP animations.**
+- I’m currently working on **Building full-stack web applications with React and Node.js, and improving my portfolio with interactive GSAP animations.**
 
 - I’m currently learning **Next.js, Tailwind CSS, and diving deeper into backend architecture.**
 
