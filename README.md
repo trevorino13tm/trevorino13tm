@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on **Building full-stack web applications with React and Node.js, and improving my portfolio with interactive GSAP animations.**
 
-- 🌱 I’m currently learning **Next.js, Tailwind CSS, and diving deeper into backend architecture.**
+- I’m currently learning **Next.js, Tailwind CSS, and diving deeper into backend architecture.**
 
-- 👯 I’m looking to collaborate on **Open-source projects related to web development, animation libraries, or developer tools.**
+- I’m looking to collaborate on **Open-source projects related to web development, animation libraries, or developer tools.**
 
-- 🤝 I’m looking for help with **Advanced TypeScript patterns and optimizing performance in React apps.**
+- I’m looking for help with **Advanced TypeScript patterns and optimizing performance in React apps.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/trevorino13tm](https://github.com/trevorino13tm)
+- All of my projects are available at [https://github.com/trevorino13tm](https://github.com/trevorino13tm)
 
-- 💬 Ask me about **Next.js, Tailwind CSS, and diving deeper into backend architecture.**
+- Ask me about **Next.js, Tailwind CSS, and diving deeper into backend architecture.**
 
-- 📫 How to reach me **mutenderat03@gmail.com**
+- How to reach me **mutenderat03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
