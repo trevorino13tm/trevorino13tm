@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/trevor mutendera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trevor mutendera" height="30" width="40" /></a>
 <a href="https://instagram.com/trevoltz16tm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trevoltz16tm" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/2147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="2147" height="30" width="40" /></a>
 <a href="https://discord.gg/trevorino16tm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="trevorino16tm" height="30" width="40" /></a>
 </p>
 
